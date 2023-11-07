@@ -58,6 +58,10 @@ body{
     height: 70%;
 }
 
+.opacidade:hover{
+    opacity:0,5;
+}
+
 
 /*Transformação*/
 .pai_2{
